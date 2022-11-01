@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build-decorator": "tsc --experimentalDecorators true ./decorator.ts"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
